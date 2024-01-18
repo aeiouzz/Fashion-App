@@ -163,6 +163,10 @@ header h2 {
     margin-bottom: 116px;
 }
 
+.sign_up .main_tt.text-left.signuptt {
+    line-height: 0px;
+}
+
 [class^="sign"] form label {
     display: none;
 }
